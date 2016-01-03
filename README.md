@@ -5,7 +5,7 @@ Note! This script match your files in very specified regexp: `(.*)\.[Ss]([0-9]+)
 
 
 ## Installation
-You need to install:
+You need:
 
  - node js
  - [same31/addic7ed-api](https://github.com/same31/addic7ed-api) lib
