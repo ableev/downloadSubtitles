@@ -12,7 +12,7 @@ You need to install:
 
 ## Usage
 I'm Mac OS X user, so I created [Automator](https://en.wikipedia.org/wiki/Automator_%28software%29) workflow for quick downloading subtitles directly in my file manager:
-![Download Subtitles in Finder](https://i.imgur.com/MeuSaj2.gifv)
+![Download Subtitles in Finder](http://ableev.com/wp-content/uploads/output_ok6Clr.gif)
 Open Download Subtitles.workflow in Finder, click to "Install", "Open in Automator", change the path to your copy of downloadSubtitles.js and press "CMD+S" to save. 
 
 If you are not Mac OS X user, you can use script for command line:
